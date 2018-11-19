@@ -1,5 +1,5 @@
 {
-  "id": "CMT",
+  "id": "YUM",
   "owners": [
     "root"
   ],
@@ -7,10 +7,10 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": null,
-      "pricing": null
+      "transfer": "yumgamescoin",
+      "pricing": "yumgamescoin"
     },
-    "website": null,
+    "website": "http://yum.games/",
     "github": null,
     "email": null,
     "tg": null,
@@ -20,6 +20,6 @@
     "price_scope": null
   },
   "incubation": null,
-  "dex": false,
+  "dex": true,
   "contract_exchange": false
 }

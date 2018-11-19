@@ -10,7 +10,7 @@
       "transfer": "dacincubator",
       "pricing": "dacincubator"
     },
-    "website": "https://ibo.kyubey.network",
+    "website": "https://kyubey.network",
     "github": "https://github.com/kyubey-network",
     "email": null,
     "tg": null,
@@ -18,13 +18,14 @@
     "curve_arguments": [
       0.0000000001
     ],
-    "price_table": null,
-    "price_scope": null
+    "price_table": "market",
+    "price_scope": "dacincubator"
   },
   "incubation": {
-    "raisedtarget": 20000.000000000000000000000000,
-    "deadline": "2018-9-30T00:00:00+00:00"
+    "goal": 20000.000000000000000000000000,
+    "deadline": "2018-10-02T00:00:00+00:00",
+    "begin_time": "2018-09-30T20:00:00+00:00"
   },
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }
